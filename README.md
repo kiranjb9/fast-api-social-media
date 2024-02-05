@@ -1,7 +1,7 @@
 🚀 Social Media App Clone Backend Project
 
 1) Post route
-This route is reponsible for creating post, deleting post, updating post and Checkinh post
+This route is reponsible for creating post, deleting post, updating post and Checking post
 
 2) Users route
 This route is about creating users and searching user by id
