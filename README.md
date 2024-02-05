@@ -13,16 +13,21 @@ This route is about login system
 This route is about likes or vote system and this route contain code for upvote or back vote
 
 how to run locally
+
 First clone this repo by using following command
+
 git clone https://github.com/kiranjb9/fast-api-social-media.git
 
 Move to fastapi folder 
+
 cd fastapi
 
 Install All Packages Needed
+
 pip install fastapi[all]
 
 Run Command
+
 uvicorn main:app --reload
 
 Check API's On
