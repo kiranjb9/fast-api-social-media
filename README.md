@@ -16,9 +16,17 @@ how to run locally
 First clone this repo by using following command
 
 git clone https://github.com/kiranjb9/fast-api-social-media.git
+
+Move to fastapi folder 
 cd fastapi
+
+Install All Packages Needed
 pip install fastapi[all]
+
+Run Command
 uvicorn main:app --reload
+
+Check API's On
 http://127.0.0.1:8000/docs 
 
 Create a database in postgres then create a file name .env and write the following things in you file
